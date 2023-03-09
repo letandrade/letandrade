@@ -7,4 +7,4 @@ Oi, meu nome é Letícia ! Seja bem - vindo 👋
 <p>➝ 👩🏽‍🔬 Aspirante a Cientista de Dados<p>
 <p>➝ 🏃🏽‍♀️ Corredora amadora<p>
 <p>➝ 💬 Vamos trocar ideias e evoluir juntos ?<p>
-<p>➝ 💻 Atualmente focada em: ?<p>
+<p>➝ 💻 Atualmente focada em: <p>
