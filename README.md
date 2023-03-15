@@ -10,6 +10,7 @@ Trabalho com Ciência de Dados no ramo do varejo e saúde, busco constantemente 
 <p>➝ 💻 Atualmente focada em: <p>
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img width='50' height='50' src="https://p23.zdusercontent.com/attachment/9632372/RTMcLyH5ITUnKCEI2cmHLzPhy?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..HTtHG6hnDl2HAlHyi-SxTA.7t7SbxI1yNtnkRXRhPi3Dbz37gnfD1pUP5F8shcsLvYc4fAG7kxGi6seUghx4hf3pq2q4Mswqff-L08VLHgpg5pX2MMD8c3d6g5TL8-cyyAK7oRDSWWGsWiotO8Ptapv1QsXWfZHwlMz6fH5A3CfoAztUODWMdqKabZaylt5Rlhag7ml3agfTcC3OkEEBuPM8J84fO-kbERpw34C5ZkpWf98Map4lH7lgidVe96qYtxAPFIvoYqfujunqNYFvfImJuK_x4Ft3_EYdAhXwAW7rbMHld0jtexmH6AboM01AZo.Riy4m01z_b7VrMZbUwhBhQ)" />
     
  **Você também me encontra em:**
      
