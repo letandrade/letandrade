@@ -2,9 +2,9 @@ Oi, meu nome é Letícia ! Seja bem - vindo(a) 👋
 
 Trabalho com Ciência de Dados no ramo do varejo e saúde, busco constantemente me aperfeiçoar em ciência de dados, reduzir perdas e gerar valor para negócios.
 
-<p>➝ ⚙️ Engenheira de Produção<p>
-<p>➝ 📊 Analista Sênior de Desenvolvimento e Report na Rede D'Or São Luiz<p>
 <p>➝ 👩🏽‍🔬 Cientista de Dados<p>
+<p>➝ 📊 Analista Sênior de Desenvolvimento e Report na Rede D'Or São Luiz<p>
+<p>➝ ⚙️ Formada em Engenheira de Produção<p>
 <p>➝ 🏃🏽‍♀️ Corredora amadora<p>
 <p>➝ 💬 Vamos trocar ideias e evoluir juntos ?<p>
 <p>➝ 💻 Atualmente focada em: <p>
