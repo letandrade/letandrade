@@ -1,4 +1,4 @@
-# Oi, meu nome é Letícia ! Seja bem - vindo(a) 👋
+## Oi, meu nome é Letícia ! Seja bem - vindo(a) 👋
 
 Trabalho com Ciência de Dados no ramo do varejo e saúde, busco constantemente me aperfeiçoar em ciência de dados, reduzir perdas e gerar valor para negócios.
 
