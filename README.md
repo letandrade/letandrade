@@ -4,8 +4,8 @@ Sou Engenheira de Produção com mais de 5 anos de experiência em Análise de D
 
 <p>➝ 👩🏽‍🔬 Cientista de Dados<p>
 <p>➝ ⚙️ Engenheira de Produção<p>
-<p>➝ 💬 Vamos trocar ideias e evoluir juntos ?<p>
 <p>➝ 🎯 Geração de valor nas áreas de varejo e saúde<p>
+<p>➝ 💬 Vamos trocar ideias e evoluir juntos ?<p>
 <p>➝ 💻 Atualmente focada em: <p>
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
