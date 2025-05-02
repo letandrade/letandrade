@@ -1,10 +1,11 @@
 ## Oi, meu nome é Letícia ! Seja bem - vindo(a) 👋
 
-Trabalho com Ciência de Dados no ramo do varejo e saúde, busco constantemente me aperfeiçoar em ciência de dados, reduzir perdas e gerar valor para negócios.
+Sou Engenheira de Produção com mais de 5 anos de experiência em Análise de Dados, atuando na transformação de dados em soluções estratégicas para resolver problemas de negócio. 
 
 <p>➝ 👩🏽‍🔬 Cientista de Dados<p>
 <p>➝ ⚙️ Engenheira de Produção<p>
 <p>➝ 💬 Vamos trocar ideias e evoluir juntos ?<p>
+<p>➝ 🎯 Geração de valor nas áreas de varejo e saúde<p>
 <p>➝ 💻 Atualmente focada em: <p>
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
